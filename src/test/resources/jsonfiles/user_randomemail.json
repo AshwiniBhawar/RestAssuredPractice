@@ -1,0 +1,6 @@
+{
+  "name": "Ash B",
+  "gender": "female",
+  "email": "{{emailID}}",
+  "status": "active"
+}
