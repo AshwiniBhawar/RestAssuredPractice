@@ -12,7 +12,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class GoRestCreateUserUsingLombok {
 
-    public String getRandomEmailID(){
+    private String getRandomEmailID(){
         return "apiautomation"+System.currentTimeMillis()+"@opencart.com";
     }
 
